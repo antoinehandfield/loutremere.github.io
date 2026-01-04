@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ébénisterie Loutre Mère",
+    "description": "",
+    "home_page_url": "https://loutremere.ca",
+    "feed_url": "https://loutremere.ca/feed.json",
+    "user_comment": "",
+    "icon": "https://loutremere.ca/media/website/logo.png",
+    "author": {
+        "name": "Antoine"
+    },
+    "items": [
+    ]
+}
